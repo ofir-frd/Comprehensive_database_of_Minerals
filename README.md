@@ -1,4 +1,4 @@
-# Comprehensive_database_of_Minerals
+# Comprehensive database of Minerals
 
 A Kaggle dataset.
 
