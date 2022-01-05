@@ -1,4 +1,4 @@
-# Comprehensive database of Minerals
+# Predict Minerals Structure from Materials Characteristics
 
 A Kaggle dataset.
 
