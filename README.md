@@ -70,4 +70,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE.md](htt
 
 ## Acknowledgments
 
-* * Vineeth Venugopal, who collected and organized the data, and create the dataset in Kaggle
+* [Vineeth Venugopal](https://www.linkedin.com/in/vineeth-venugopal-959781108/), who collected and organized the data, and create the dataset in Kaggle
