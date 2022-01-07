@@ -16,7 +16,7 @@ Directory description:
 ```
 
 Root Dir/
-  - Comprehensive_database_of_Minerals.ipynb
+  - minerals-structure-from-materials-characteristics.ipynb
   - Minerals_Database.csv
   - README.md
   - LICENSE.md
