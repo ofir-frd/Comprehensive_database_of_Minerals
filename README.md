@@ -1,4 +1,4 @@
-# Predict Minerals Structure from Materials Characteristics
+# Predict Minerals Structure From Materials Characteristics
 
 A Kaggle dataset.
 
