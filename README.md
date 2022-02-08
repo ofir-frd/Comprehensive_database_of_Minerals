@@ -5,11 +5,11 @@ A Kaggle dataset.
 Predict materials structures from a list of 3112 minerals, their chemical composition, and properties.
 
 
-## About Data collection methodology
+## About Data Collection Methodology
 
 Data was collected from Wikipedia (https://en.wikipedia.org/wiki/List_of_minerals), The American Mineralogist Crystal Structure Database (http://rruff.geo.arizona.edu/AMS/amcsd.php), and the gemology project website (http://gemologyproject.com/wiki).
 
-### Description of the data
+### Description of The Data
 
 Directory description:
 
@@ -45,7 +45,7 @@ Minerals_Database.csv/
 ```
 
 
-### File formats
+### File Formats
 
 Code is written in Python on Jupyter '.ipynb'.
 
@@ -55,7 +55,7 @@ The data provided in this project is a '.csv' file with no separation between tr
 -50,000 3112 minerals, their chemical composition, and properties, format csv.
 ```
 
-## Online Repository link
+## Online Repository Link
 
 * [Data Repository](https://www.kaggle.com/vinven7/comprehensive-database-of-minerals)
 
