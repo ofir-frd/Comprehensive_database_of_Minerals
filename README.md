@@ -57,7 +57,7 @@ The data provided in this project is a '.csv' file with no separation between tr
 
 ## Online Repository link
 
-* [DataRepository](https://www.kaggle.com/vinven7/comprehensive-database-of-minerals)
+* [Data Repository](https://www.kaggle.com/vinven7/comprehensive-database-of-minerals)
 
 ## Author
 
